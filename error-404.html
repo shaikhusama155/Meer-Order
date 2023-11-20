@@ -261,6 +261,9 @@
                                         <h6>Phone</h6>
                                         <a href="tel:13454567877">+1 (657) 277-0191</a>
                                     </li>
+                                    <li>
+                                        <h6 style="cursor: pointer;" id="Developer">PowerdBy</h6>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -298,6 +301,17 @@
         <script src="assets/js/jquery.appear.js"></script>
         <script src="assets/js/tweenmax.min.js"></script>
         <script src="assets/js/main.js"></script>
+        <script>
+        
+            document.getElementById("Developer").addEventListener("click", () => {
+                Swal.fire({
+                    title: '<h3>Contact To Developer</h3>',
+                    text: 'shaikhusama155@gmail.com',
+                    footer: '<a href="tel:03452788791">Contact No. : 03452788791</a>',
+                })
+            })
+        
+            </script>
     </body>
 
 
