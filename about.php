@@ -2,7 +2,7 @@
 <html lang="zxx">
 
     
-<!-- Mirrored from templates.hibotheme.com/wazo/default/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Nov 2023 18:44:06 GMT -->
+<!-- Mirrored from templates.hibotheme.com/wazo/default/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Nov 2023 18:44:06 GMT -->
 <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -99,7 +99,7 @@
                 <div class="container">
                     <div class="header-bottom">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand d-flex" href="index.html">
+                            <a class="navbar-brand d-flex" href="index.php">
                                 <img class="logo-light" src="assets/img/favicon.png" alt="logo">
                                 <a href="" id="logo-styling">Meer</a>
                             </a>
@@ -114,22 +114,22 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="about.html" class="nav-link">
+                                        <a href="about.php" class="nav-link">
                                             About Us
                                         </a>
                                     </li>
                                     <li class="nav-item has-child">
-                                        <a href="testimonials.html" class="nav-link">
+                                        <a href="testimonials.php" class="nav-link">
                                             Reviews
                                         </a>
                                     </li>
                                     <li class="nav-item has-child">
-                                        <a href="faq.html" class="nav-link">
+                                        <a href="faq.php" class="nav-link">
                                             Faqs
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact Us</a>
+                                        <a href="contact.php" class="nav-link">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -160,7 +160,7 @@
                         <div class="breadcrumb-title">
                             <h2>About Us</h2>
                             <ul class="breadcrumb-menu list-style">
-                                <li><a href="index.html">Home </a></li>
+                                <li><a href="index.php">Home </a></li>
                                 <li>About Us</li>
                             </ul>
                         </div>
@@ -252,7 +252,7 @@
                                         </div>
                                     </div>
                                     
-                                    <a href="about.html" class="btn style1">Read More</a>
+                                    <a href="about.php" class="btn style1">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -320,7 +320,7 @@
                         <div class="row pt-100 pb-75">
                             <div class="col-xl-3 col-lg-5 col-md-5 col-sm-12">
                                 <div class="footer-widget">
-                                    <a href="index.html" class="footer-logo">
+                                    <a href="index.php" class="footer-logo">
                                         <a class="navbar-brand" href="/">
                                             <a href="" style="color: white;" id="logo-styling">Meer</a>
                                         </a>
@@ -353,32 +353,32 @@
                                     <h3 class="footer-widget-title">Service Links</h3>
                                     <ul class="footer-menu list-style">
                                         <li>
-                                            <a href="index.html">
+                                            <a href="index.php">
                                                 <i class="ri-arrow-right-s-line"></i>
                                                 Home
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="about.html">
+                                            <a href="about.php">
                                                 <i class="ri-arrow-right-s-line"></i>
                                                 About Us
                                             </a>
                                         </li>
         
                                         <li>
-                                            <a href="testimonials.html">
+                                            <a href="testimonials.php">
                                                 <i class="ri-arrow-right-s-line"></i>
                                                 Reviews
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="faq.html">
+                                            <a href="faq.php">
                                                 <i class="ri-arrow-right-s-line"></i>
                                                 Faqs
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="contact.html">
+                                            <a href="contact.php">
                                                 <i class="ri-arrow-right-s-line"></i>
                                                 Contact US
                                             </a>
@@ -460,5 +460,5 @@
         </body>
     
     
-    <!-- Mirrored from templates.hibotheme.com/wazo/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Nov 2023 18:42:46 GMT -->
+    <!-- Mirrored from templates.hibotheme.com/wazo/default/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Nov 2023 18:42:46 GMT -->
     </html>
